@@ -61,5 +61,6 @@ sudo apt-get install vim
 新建文件，如``vi test.txt``会在当前目录下生成test.txt文件
 ## 学习建议
 1. 不会的命令，用谷歌/必应/百度查一下
-2. 遇到报错/警告，去github（https://github.com/） 或者 stackoverflow（https://stackoverflow.com/） 查一下
+2. 遇到报错/警告，去github (https://github.com/) 或者 stackoverflow (https://stackoverflow.com/) 查一下
+
 
